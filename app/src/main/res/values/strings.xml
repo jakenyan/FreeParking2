@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FreeParking</string>
+    <string name="title">Welcome to FreeParking!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_maps_page">Maps Page</string>
+    <string name="title_activity_create_account">createAccount</string>
+    <string name="title_activity_drexel">drexel</string>
+    <string name="title_activity_sju">sju</string>
+
+</resources>
